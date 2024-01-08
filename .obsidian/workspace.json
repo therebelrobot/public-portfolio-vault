@@ -26,9 +26,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "127ad3e6001ca91a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "95ad1153a9c6cb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "side_projects/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c7a87dc640a9f49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,8 +185,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54dec17dcb1c2387",
+  "active": "127ad3e6001ca91a",
   "lastOpenFiles": [
-    "index.md"
+    "volunteer.md",
+    "work.md",
+    "index.md",
+    "side_projects/queer_theory.md",
+    "side_projects/woodworking.md",
+    "side_projects/spoken_language.md",
+    "side_projects/index.md",
+    "side_projects/embedded_eng.md",
+    "side_projects.md",
+    "2024-01-08.md",
+    "side_projects"
   ]
 }
