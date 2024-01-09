@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "work/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "work/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "work/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "work/index.md"
               }
             }
           }
@@ -185,16 +185,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "127ad3e6001ca91a",
+  "active": "54dec17dcb1c2387",
   "lastOpenFiles": [
-    "volunteer.md",
-    "work.md",
+    "work/2019sep-medium.md",
+    "work/index.md",
     "index.md",
-    "side_projects/queer_theory.md",
-    "side_projects/woodworking.md",
-    "side_projects/spoken_language.md",
+    "volunteer/index.md",
+    "work",
+    "side_projects/spoken_language/index.md",
+    "volunteer",
+    "side_projects/woodworking",
+    "side_projects/queer_theory/index.md",
+    "side_projects/spoken_language",
+    "side_projects/embedded_eng/index.md",
+    "side_projects/queer_theory",
     "side_projects/index.md",
-    "side_projects/embedded_eng.md",
+    "side_projects/embedded_eng",
+    "side_projects/woodworking/index.md",
     "side_projects.md",
     "2024-01-08.md",
     "side_projects"

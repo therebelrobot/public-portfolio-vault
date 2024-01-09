@@ -12,10 +12,10 @@ But hey, life's not all about tech, right? When I'm not coding, you might find m
 
 So, that's a bit about me. I'm here to make a mark, not just in tech, but in how we think about equity and accessibility in this ever-evolving digital age. Let's connect and make some waves!
 
-- [Work Experience](work)
-- [Volunteer Experience](volunteer)
+- [Work Experience](work/index)
+- [Volunteer Experience](volunteer/index)
 - [Side Projects](side_projects/index)
-	- [Woodworking](side_projects/woodworking)
-	- [Embedded Engineering](side_projects/embedded_eng)
-	- [Spoken Language Learning](side_projects/spoken_language)
-	- [Queer Theory](side_projects/queer_theory)
+	- [Woodworking](side_projects/woodworking/index)
+	- [Embedded Engineering](side_projects/embedded_eng/index)
+	- [Spoken Language Learning](side_projects/spoken_language/index)
+	- [Queer Theory](side_projects/queer_theory/index)
