@@ -1,6 +1,7 @@
 ---
 title: Work Experience
 ---
+![work banner](img/work.png)
 I've worked in a swath of different business sectors, ranging from startups to enterprises, from direct-to-consumer to B2B. My programming languages have been primarily Javascript (client & server) and more recently, Typescript, with smatterings of Golang and Python thrown in there. I've also pushed major internal tooling initiatives at multiple companies, saving stakeholders countless hours of otherwise manual processes, those have leaned toward the JS side, though they also leveraged bash command-line tooling, Chrome extension development, and Electron development.
 
 If you're looking for a one-pager with my experience, please check out my [linkedin profile](https://www.linkedin.com/in/therebelrobot/details/experience/)
