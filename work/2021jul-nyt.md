@@ -1,4 +1,4 @@
 ---
-title: The New York Times - Senior Software Engineer - July 2021 to Jan 2023
+title: 2021-2023 The New York Times
 ---
 __note: I'm still building out this page, check back soon for more info__

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "work/2015mar-mashape.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "work/2015mar-mashape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "work/2015mar-mashape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "work/2015mar-mashape.md"
               }
             }
           }
@@ -187,27 +187,33 @@
   },
   "active": "54dec17dcb1c2387",
   "lastOpenFiles": [
-    "side_projects/embedded_eng/index.md",
-    "side_projects/index.md",
+    "work/2013mar-rain.md",
+    "work/2023may-plume.md",
+    "work/2021jul-nyt.md",
+    "work/2019sep-medium.md",
+    "work/2017sep-saleae.md",
+    "work/2016aug-segment.md",
+    "work/2015mar-mashape.md",
+    "work/2014aug-grow.md",
     "side_projects/spoken_language/index.md",
-    "side_projects/woodworking/index.md",
     "side_projects/queer/index.md",
     "side_projects/homestead/index.md",
+    "side_projects/embedded_eng/index.md",
+    "index.md",
+    "img/homestead.png",
+    "img/embedded_eng.png",
+    "img/main_banner.png",
+    "img/queer.png",
+    "img/spoken_language.png",
+    "img",
+    "side_projects/index.md",
+    "side_projects/woodworking/index.md",
     "side_projects/homestead",
     "side_proiects/embedded_eng/index.md",
     "side_proiects/embedded_eng",
     "side_proiects",
     "work/index.md",
-    "index.md",
     "volunteer/index.md",
-    "work/2023may-plume.md",
-    "work/2013mar-rain.md",
-    "work/2014aug-grow.md",
-    "work/2015mar-mashape.md",
-    "work/2016aug-segment.md",
-    "work/2017sep-saleae.md",
-    "work/2019sep-medium.md",
-    "work/2021jul-nyt.md",
     "work/2023may_plume.md",
     "work",
     "volunteer",
@@ -216,7 +222,6 @@
     "side_projects/queer",
     "side_projects/embedded_eng",
     "side_projects.md",
-    "2024-01-08.md",
-    "side_projects"
+    "2024-01-08.md"
   ]
 }

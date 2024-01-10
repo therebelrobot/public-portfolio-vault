@@ -1,4 +1,4 @@
 ---
-title: Plume Clinic - Senior Software Engineer - May 2023 to Present
+title: 2023-now -  Plume Clinic
 ---
 __note: I'm still building out this page, check back soon for more info__
